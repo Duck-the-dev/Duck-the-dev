@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonesomet0wn&label=Profile%20views&color=0e75b6&style=flat" alt="lonesomet0wn" /> </p>
 
-- 🔭 I’m currently working on [webApps portfolio](https://github.com/Duck-the-dev/webApps-portfolio)
+- 🔭 I’m currently working on [webApps portfolio](https://github.com/Duck-the-dev/webDev-Project)
 
 - 🌱 I’m currently learning **basics of web development to work with Vue.js**
 
