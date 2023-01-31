@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_lonesomet0wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lonesomet0wn" height="30" width="40" /></a>
-<a href="https://instagram.com/_lonesomet0wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lonesomet0wn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elcircles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lonesomet0wn" height="30" width="40" /></a>
 </p>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duck-the-dev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duck-the-dev)](https://github.com/anuraghazra/github-readme-stats)
 
